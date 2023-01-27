@@ -34,4 +34,6 @@ return require('packer').startup(function()
   	use { "ellisonleao/gruvbox.nvim" }
 
     use {"terrortylor/nvim-comment"}
+
+    use {'neoclide/coc.nvim', branch = 'release'}
 end)
