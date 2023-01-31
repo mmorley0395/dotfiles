@@ -1,0 +1,18 @@
+pseudocode for bootstrapping until i write a proper script
+
+nvim should be > .8
+
+
+curl -LO https://github.com/neovim/neovim/releases/latest/download/nvim.appimage
+chmod u+x nvim.appimage
+./nvim.appimage
+mv ./nvim/appimage /usr/bin/nvim
+
+
+need node.js for coc (lsp) 
+
+sudo curl -sL install-node.vercel.app/lts | sudo bash
+
+run packerinstall inside nvim
+
+
