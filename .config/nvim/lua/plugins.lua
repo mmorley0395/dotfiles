@@ -36,4 +36,6 @@ return require('packer').startup(function()
     use {"terrortylor/nvim-comment"}
 
     use {'neoclide/coc.nvim', branch = 'release'}
+
+    use { 'sindrets/diffview.nvim', requires = 'nvim-lua/plenary.nvim' }
 end)
