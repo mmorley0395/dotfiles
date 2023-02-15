@@ -1,4 +1,4 @@
-browser "open -g -a 'Google Chrome' %u"
+browser "firefox %u"
 max-items 50
 auto-reload yes
 
