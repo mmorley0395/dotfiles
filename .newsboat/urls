@@ -1,15 +1,16 @@
-http://pedestrianobservations.wordpress.com/feed/ "Transportation"
-http://sictransitphiladelphia.org/feed/ "Transportation"
-https://signalproblems.substack.com/feed/ "Transportation"
-http://transitcenter.org/feed/ "Transportation"
-http://itineranturbanist.wordpress.com/feed/ "Transportation"
-https://rsapkf.org/weblog/rss.xml "computing"
-https://schollz.com/index.xml
+http://pedestrianobservations.wordpress.com/feed/ "transit"
+http://sictransitphiladelphia.org/feed/ "transit"
+https://signalproblems.substack.com/feed/ "transit"
+http://transitcenter.org/feed/ "transit"
+http://itineranturbanist.wordpress.com/feed/ "transit"
 https://mastodon.social/users/mejs.rss
 
 https://reddit.com/r/cpap.rss
 https://reddit.com/r/programming.rss "computing"
 https://reddit.com/r/linux.rss "computing"
-https://jobs.septa.org/services/rss/job/?locale=en_US
+https://rsapkf.org/weblog/rss.xml "computing"
+https://schollz.com/index.xml "computing"
+
+https://jobs.septa.org/services/rss/job/?locale=en_US "career"
 
  
