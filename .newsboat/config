@@ -1,4 +1,4 @@
-browser "xdg-open %u"
+browser "firefox %u"
 max-items 50
 auto-reload yes
 
