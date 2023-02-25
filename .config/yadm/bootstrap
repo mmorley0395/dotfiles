@@ -16,4 +16,9 @@ git clone --depth 1 https://github.com/wbthomason/packer.nvim\
 # grabs node , needed for coc (lsp)
 sudo curl -sL install-node.vercel.app/lts | sudo bash
 
-
+echo "[-] Download fonts [-]"
+echo "https://github.com/ryanoasis/nerd-fonts/releases/download/v2.3.3/Hack.zip"
+wget https://github.com/ryanoasis/nerd-fonts/releases/download/v2.3.3/Hack.zip
+unzip Hack.zip -d ~/.fonts
+fc-cache -fv
+echo "done!"
