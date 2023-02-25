@@ -1,7 +1,9 @@
 #!/bin/sh
 
+# basics needed
 sudo apt install curl libfuse2
 sudo apt autoremove
+
 # gets latest nvim
 curl -LO https://github.com/neovim/neovim/releases/latest/download/nvim.appimage
 chmod u+x nvim.appimage
@@ -10,4 +12,8 @@ sudo mv nvim/appimage /usr/bin/nvim
 # gets packer for nvim
 git clone --depth 1 https://github.com/wbthomason/packer.nvim\
  ~/.local/share/nvim/site/pack/packer/start/packer.nvim
+
+# grabs node , needed for coc (lsp)
+sudo curl -sL install-node.vercel.app/lts | sudo bash
+
 
