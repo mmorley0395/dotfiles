@@ -3,6 +3,7 @@ http://sictransitphiladelphia.org/feed/ "transit"
 https://signalproblems.substack.com/feed/ "transit"
 http://transitcenter.org/feed/ "transit"
 http://itineranturbanist.wordpress.com/feed/ "transit"
+http://feeds.feedburner.com/humantransit/TCwW "transit"
 https://mastodon.social/users/mejs.rss
 
 https://reddit.com/r/cpap.rss
@@ -13,4 +14,8 @@ https://schollz.com/index.xml "computing"
 
 https://jobs.septa.org/services/rss/job/?locale=en_US "career"
 
- 
+http://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml "news" 
+http://rss.sciam.com/sciam/technology "news
+http://rss.sciam.com/ScientificAmerican-Global "news"
+https://www.vox.com/rss/index.xml "news"
+https://www.futurism.com/feed "news"
