@@ -12,3 +12,13 @@ unbind-key K
 # bind keys - vim style
 bind-key j down
 bind-key k up
+
+
+# colors
+color background          white   black
+color listnormal          green  black
+color listfocus           black  green  bold
+color listnormal_unread   red  black
+color listfocus_unread    black  green  bold
+color info                yellow  red  bold
+color article             white   black
