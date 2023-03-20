@@ -2,7 +2,16 @@
 HOME = os.getenv("HOME")
 
 vim.opt.clipboard = 'unnamedplus'
+in_wsl = os.getenv('WSL_DISTRO_NAME') ~= nil
 
+if in_wsl then
+    vim.g.clipboard = {
+        name = 'wsl clipboard',
+        copy =  { ["+"] = { "clip.exe" },   ["*"] = { "clip.exe" } },
+        paste = { ["+"] = { "nvim_paste" }, ["*"] = { "nvim_paste" } },
+        cache_enabled = true
+    }
+end
 -- basic settings
 vim.o.encoding = "utf-8"
 vim.o.backspace = "indent,eol,start" -- backspace works on every char in insert mode
