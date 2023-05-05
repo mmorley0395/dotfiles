@@ -13,6 +13,7 @@ https://rsapkf.org/weblog/rss.xml "computing"
 https://schollz.com/index.xml "computing"
 
 https://jobs.septa.org/services/rss/job/?locale=en_US "career"
+https://careers.vermont.gov/services/rss/job/?locale=en_US&keywords=(planner)
 
 https://travissouthard.com/rss.xml
 https://solarpunkdruid.com/feed/
@@ -20,4 +21,5 @@ https://libwww.freelibrary.org/rss/eventsrss.cfm?type=&series=&location=SWK&depa
 https://www.vox.com/rss/index.xml "news"
 https://www.futurism.com/feed "news"
 https://monome.org/rss.xml
-https://careers.vermont.gov/services/rss/job/?locale=en_US&keywords=(planner)
+
+https://bikepacking.com/feed
