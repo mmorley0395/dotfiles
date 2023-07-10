@@ -5,11 +5,7 @@ https://urbababble.substack.com/feed "transit"
 http://transitcenter.org/feed/ "transit"
 http://itineranturbanist.wordpress.com/feed/ "transit"
 http://feeds.feedburner.com/humantransit/TCwW "transit"
-https://mastodon.social/users/mejs.rss
 
-https://reddit.com/r/cpap.rss
-https://reddit.com/r/programming.rss "computing"
-https://reddit.com/r/linux.rss "computing"
 https://rsapkf.org/weblog/rss.xml "computing"
 https://codeberg.org/kdwarn.rss
 https://schollz.com/index.xml "computing"
@@ -21,7 +17,13 @@ https://travissouthard.com/rss.xml
 https://solarpunkdruid.com/feed/
 https://libwww.freelibrary.org/rss/eventsrss.cfm?type=&series=&location=SWK&department=&age=
 https://www.vox.com/rss/index.xml "news"
-https://www.futurism.com/feed "news"
-https://monome.org/rss.xml
+https://rss.nytimes.com/services/xml/rss/nyt/World.xml "news"
+https://rss.nytimes.com/services/xml/rss/nyt/US.xml "news"
+https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml "news"
+https://rss.nytimes.com/services/xml/rss/nyt/Science.xml "news"
+https://rss.nytimes.com/services/xml/rss/nyt/Health.xml "news"
 
-https://bikepacking.com/feed
+
+https://monome.org/rss.xml "synths"
+
+https://bikepacking.com/feed "bikes"
