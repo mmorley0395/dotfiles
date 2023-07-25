@@ -7,3 +7,5 @@ select = "block"
 
 [editor]
 true-color = true
+line-number = "relative"
+
