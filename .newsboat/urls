@@ -9,9 +9,13 @@ http://feeds.feedburner.com/humantransit/TCwW "transit"
 https://rsapkf.org/weblog/rss.xml "computing"
 https://codeberg.org/kdwarn.rss
 https://schollz.com/index.xml "computing"
+https://www.paritybit.ca/feed.xml "computing"
+https://hamblingreen.com/atom.xml "computing"
+https://ianthehenry.com/feed.xml "computing"
 
 https://jobs.septa.org/services/rss/job/?locale=en_US "career"
-https://careers.vermont.gov/services/rss/job/?locale=en_US&keywords=(planner)
+https://brisray.com/web/webring-list.htm "career"
+https://careers.vermont.gov/services/rss/job/?locale=en_US&keywords=(planner) "career"
 
 https://travissouthard.com/rss.xml
 https://solarpunkdruid.com/feed/
