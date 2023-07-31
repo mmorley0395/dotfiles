@@ -1,13 +1,11 @@
 http://pedestrianobservations.wordpress.com/feed/ "transit"
 http://sictransitphiladelphia.org/feed/ "transit"
-https://signalproblems.substack.com/feed/ "transit"
 https://urbababble.substack.com/feed "transit"
 http://transitcenter.org/feed/ "transit"
 http://itineranturbanist.wordpress.com/feed/ "transit"
 http://feeds.feedburner.com/humantransit/TCwW "transit"
 
 https://rsapkf.org/weblog/rss.xml "computing"
-https://codeberg.org/kdwarn.rss
 https://schollz.com/index.xml "computing"
 https://www.paritybit.ca/feed.xml "computing"
 https://hamblingreen.com/atom.xml "computing"
@@ -26,7 +24,6 @@ https://rss.nytimes.com/services/xml/rss/nyt/US.xml "news"
 https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml "news"
 https://rss.nytimes.com/services/xml/rss/nyt/Science.xml "news"
 https://rss.nytimes.com/services/xml/rss/nyt/Health.xml "news"
-
 
 https://monome.org/rss.xml "synths"
 
